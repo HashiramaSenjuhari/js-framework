@@ -48,13 +48,6 @@ const Perfect = {
   },
 };
 
-// Example 
-Perfect.magnet('.custom-magnetic-container', {
-  draggable: true,
-  strength: 150,
-  magnetChildren: true,
-});
-
 
 ///----------------------------------------------------------------------------------
 
